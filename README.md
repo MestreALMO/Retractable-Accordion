@@ -22,9 +22,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About the project</a>
-      <ul>
-        <li><a href="#built-with">Built with</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -50,36 +47,17 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="https://github.com/MestreALMO/Retractable-Accordion/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
-A project created in ReactJS with TS that already includes, the following items to accelerate the production: 
-* Yarn
-* EditorConfig;
-* ESLint;
-* Prettier;
-
-The following item so we can have routes and have access to create multiple pages
-* React Router DOM;
-
-
-### Built With
-
-This section should list any major tools that you built your project using.
-* [VSCode](https://code.visualstudio.com/)
-* [React](https://reactjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Yarn](https://yarnpkg.com/)
+Building a navbar with accordion, practicing what i know.
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Use this as a template.
-Make a copy of this files locally and start your new project
-
-
+opening the project
 
 ### Prerequisites
 
@@ -137,10 +115,10 @@ With that the app will be running!!!
 
 ## Usage
 
-Here is a area to explain how the project works. In this case is a project to accelerate other projects.
+Just building a nice navbar.
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="https://github.com/MestreALMO/Retractable-Accordion/blob/master/_README.md/app.gif?raw=true" />
 </p>
 
 </br>
