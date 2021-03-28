@@ -47,7 +47,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/Retractable-Accordion/blob/master/_README.md/app.gif?raw=true" />
+  <img src="_README.md/app.gif">
 </p>
 
 Building a navbar with accordion, practicing what i know.
@@ -118,7 +118,7 @@ With that the app will be running!!!
 Just building a nice navbar.
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/Retractable-Accordion/blob/master/_README.md/app.gif?raw=true" />
+  <img src="_README.md/app.gif">
 </p>
 
 </br>
