@@ -5,10 +5,10 @@
     <img src="_README.md/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">React with TS template</h3>
+  <h3 align="center">Testing accordion</h3>
 
   <p align="center">
-    An awesome React template to jumpstart your projects!
+    testing my skills using accordion and adding some effects to it, building a navbar
     <br />
     <br />
   </p>
@@ -50,7 +50,7 @@
   <img src="_README.md/app.gif">
 </p>
 
-Building a navbar with accordion, practicing what i know.
+Building a navbar with accordion.
 
 
 
